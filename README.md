@@ -1,8 +1,8 @@
-# CodeAlpha Task 2 - Calculator 🧮
+# CodeAlpha Task 2 - Calculator 
 
 This project is part of the **CodeAlpha Internship Program**, Task 2: Build a Basic Calculator.
 
-## 🚀 Features
+## Features
 
 - Perform basic arithmetic operations: **Addition, Subtraction, Multiplication, Division**
 - Clean and responsive **user interface**
@@ -10,19 +10,19 @@ This project is part of the **CodeAlpha Internship Program**, Task 2: Build a Ba
 - **Lightweight and fast**
 - Bonus: *Keyboard support*
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📌 How to Run
+##  How to Run
 
 1. Clone the repository  
    `git clone https://github.com/theBestYouCanGet/CodeAlpha_Calculator.git`
 2. Open `index.html` in your browser
 
-## ✍️ Author
+##  Author
 
 **Akbi Mustapha**  
 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/theBestYouCanGet)
